@@ -5,3 +5,4 @@
 
 ## Hot sauces
 * [Cheese sauce](cheese_sauce.md)
+* [Gochujang](gochujang.md)
