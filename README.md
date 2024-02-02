@@ -4,3 +4,4 @@
 * [Guacamole](guacamole.md)
 
 ## Hot sauces
+* [Cheese sauce](cheese_sauce.md)
